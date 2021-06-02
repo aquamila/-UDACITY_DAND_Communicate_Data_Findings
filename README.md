@@ -1,5 +1,5 @@
 # UDACITY | Data Analyst Nanodegree Program
-# Communicate Data Findings: Express Entry Permanent Residence Applications Data Exploration
+# Communicate Data Findings
 
 ## Overview
 
