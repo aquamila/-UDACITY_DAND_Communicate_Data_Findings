@@ -51,7 +51,7 @@ Most variables are categorical nominal and ordinal and all dates are date/time v
 
 ## Summary of Findings
 
-The main goal of the analysis was to find out the application case features which affect on application processing time.
+The main goal of the analysis was to find out the application case features which affect application processing time.
 
 I investigated the next case features: 
 
