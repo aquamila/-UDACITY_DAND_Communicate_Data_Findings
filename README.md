@@ -66,8 +66,3 @@ As I found out not all applications case features have noticeable effect on proc
 - the presence of optional processing stages: additional documents request and security screening (the combination of them maximizes processing time);
 - the citizenship or residence in Iran, Iraq, Lebanon, Palestine, Syrian Arabic Republic, Jordan, Libya;
 - immigration to Canada through Provincial Nominee Program especially if the future immigrant applies from inside Canada.
-
-
-## Key Insights for Presentation
-
-My first version of presentation was limited almost by only main conclusions. The feedback from people who not very familiar with immigration to Canada was not good. They asked to add an overview of application case features and tell more about their relationship with the main feature of interest. I changed the idea of the presentation and tell the story of findings more detailed. I tested new presentation and got a great feedback: second version is more clear even though it is longer and contains more slides and information.
