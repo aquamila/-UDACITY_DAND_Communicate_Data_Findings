@@ -67,5 +67,3 @@ As I found out, not all application case features have a noticeable effect on pr
 - the presence of optional processing stages: additional documents request and security screening (the combination of them maximizes processing time);
 - the citizenship or residence in Iran, Iraq, Lebanon, Palestine, Syrian Arabic Republic, Jordan, Libya;
 - immigration to Canada through Provincial Nominee Program, especially if the future immigrant applies from inside Canada.
-
-test
